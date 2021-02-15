@@ -24,19 +24,19 @@ audience can be anything ranging from hospital parties to the state government, 
 ## Approach ( Story Creation)
 Created 4 stories that leads to another and at the end giving the solution of the problem. Please refer to powerpoint or dashboard for more Clarity
 
-Story 1 : Shows Hospital Beds with respect to Available adult and 65+ population
+## Story 1 : Shows Hospital Beds with respect to Available adult and 65+ population
 
 ![1](https://user-images.githubusercontent.com/58057238/107990844-54eb6f00-6fa3-11eb-8203-0b650fe93e0f.PNG)
 
-Story 2: Hospital Bed Capacity Analysis when 20 percent of the population, which seems plausible in the near future get affected.
+## Story 2: Hospital Bed Capacity Analysis when 20 percent of the population, which seems plausible in the near future get affected.
 
 ![2](https://user-images.githubusercontent.com/58057238/107990898-78161e80-6fa3-11eb-9109-8c0cefb7d1d9.PNG)
 
-Story 3: Hospital and ICU Availability Analysis under high impacted states from Story 2. 
+## Story 3: Hospital and ICU Availability Analysis under high impacted states from Story 2. 
 
 ![3](https://user-images.githubusercontent.com/58057238/107990937-8ebc7580-6fa3-11eb-83d9-01d68dad50d9.PNG)
 
-Story 4 : Hospital Search in Each State to manage availability
+## Story 4 : Hospital Search in Each State to manage availability
 
 ![4](https://user-images.githubusercontent.com/58057238/107990968-97ad4700-6fa3-11eb-9561-c7961237b789.PNG)
 
