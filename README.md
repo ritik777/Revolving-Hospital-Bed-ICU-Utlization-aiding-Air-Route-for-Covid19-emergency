@@ -1,4 +1,4 @@
-# Interactive Revolving hospital bed and icu Utilization aiding Air Route for Covid-19 Emergency
+# Interactive Revolving hospital bed and ICU Utilization aiding Air Route for Covid-19 Emergency
 ## Introduction and motivation of the problem
 One of the challenges that Covid-19 hit us is with limited bed and icu beds in the hospitals with the outbreak progressing exponentially.
 
